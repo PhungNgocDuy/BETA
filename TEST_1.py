@@ -9,5 +9,5 @@ print("I am also interested in exploring other programming languages and framewo
 print("I believe that programming is a powerful tool that can help me solve complex problems and create innovative solutions.")
 print("I am eager to continue my journey in programming and make a positive impact with my skills.")
 print("I am also interested in exploring other programming languages and frameworks.")
-print("I believe that programming is a powerful tool that can help me solve complex problems and create innovative solutions.")
+print("I believe that mming is a powerful tool thatd create innovative solutions.")
 print("I am eager to continue my journey in programming and make a positive impact with my skills.")            
