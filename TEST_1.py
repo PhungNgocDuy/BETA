@@ -5,7 +5,6 @@ print("ĐÂY LÀ MỘT CÂU NÓI BẰNG TIẾNG VIỆT")
 print("10+10=20")
 for i in range(5):
     print("This is iteration number", i)
-print("I am also interested in exploring other programming languages and frameworks.")
 print("I believe that programming is a powerful tool that can help me solve complex problems and create innovative solutions.")
 print("I am my journey in programming and make a positive impact with my skills.")
 print("I believe that programming is a powerful tool that can help me solve complex problems and create innovative solutions.")
